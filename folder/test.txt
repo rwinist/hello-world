@@ -1,6 +1,9 @@
 Here is another file
+<<<<<<< HEAD
 
 And another offline line...
 Hallo Welt
 
 Eine neue Linie
+=======
+>>>>>>> parent of 79731d3... local edit
